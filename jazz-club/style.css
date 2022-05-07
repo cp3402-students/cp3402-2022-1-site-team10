@@ -983,7 +983,7 @@ textarea {
 
 
 .site-header {
-	background-image: url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background-e1651819680357.png");
+	background-image: url("Images/navbar-background.png");
 	margin-top: -22px;
 	overflow: hidden;
 	height: 120px;	
@@ -1037,7 +1037,7 @@ textarea {
 }
 
 .site-footer{
-	background-image:url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background-e1651821510228.png");
+	background-image:url("Images/navbar-background.png")
 	height:120px;
 	
 }
