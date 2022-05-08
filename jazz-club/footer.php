@@ -12,6 +12,17 @@
 ?>
 
 	<footer id="colophon" class="site-footer">
+
+		<p class="socials"> Check out our social media! </p>
+		<?php
+			wp_nav_menu(
+				array(
+					'theme_location' => 'menu-2',
+					'menu_id'        => 'secondary-menu',
+				)
+			);
+			?>
+
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'jazz-club' ) ); ?>">
 				<?php
@@ -26,14 +37,7 @@
 				?>
 		</div><!-- .site-info -->
 
-		<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-2',
-					'menu_id'        => 'secondary-menu',
-				)
-			);
-			?>
+		
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
