@@ -25,6 +25,15 @@
 				printf( esc_html__( 'Theme: %1$s by %2$s.', 'jazz-club' ), 'jazz-club', '<a href="http://underscores.me/">Underscores.me</a>' );
 				?>
 		</div><!-- .site-info -->
+
+		<?php
+			wp_nav_menu(
+				array(
+					'theme_location' => 'menu-2',
+					'menu_id'        => 'secondary-menu',
+				)
+			);
+			?>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 

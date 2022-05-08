@@ -50,6 +50,7 @@ function jazz_club_setup() {
 	register_nav_menus(
 		array(
 			'menu-1' => esc_html__( 'Primary', 'jazz-club' ),
+			'menu-2' => esc_html__( 'Secondary', 'socials' ),
 		)
 	);
 
