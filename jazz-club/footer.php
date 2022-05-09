@@ -6,14 +6,14 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Jazz_Club
+ * @package TownsvilleJazz
  */
 
 ?>
 
 	<footer id="colophon" class="site-footer">
 
-		<p class="socials"> Check out our social media! </p>
+		<h2 class="socials"> Check out our social media! </h2>
 		<?php
 			wp_nav_menu(
 				array(
@@ -23,21 +23,28 @@
 			);
 			?>
 
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'jazz-club' ) ); ?>">
+		<div class="site-info">			
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'townsvillejazz' ) ); ?>">
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'jazz-club' ), 'WordPress' );
+				printf( esc_html__( 'Proudly powered by %s', 'townsvillejazz' ), 'WordPress' );
 				?>
 			</a>
 			<span class="sep"> | </span>
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'jazz-club' ), 'jazz-club', '<a href="http://underscores.me/">Underscores.me</a>' );
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'townsvillejazz' ), 'townsvillejazz', '<a href="http://underscores.me/">Underscores.me</a>' );
 				?>
 		</div><!-- .site-info -->
 
-		
+		<div class="site-contact">
+			<h2> Our Contacts! </h2>
+			<p> Address: 334 Flinders Street, Townsville, QLD, Australia 4812</p>
+			    Phone: 0431 618 618 
+			    Email: townsvillejazz@icloud.com 
+			</p>
+		</div>
+
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 

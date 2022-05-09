@@ -968,10 +968,14 @@ textarea {
 	margin-bottom: 1.5em;
 }
 
+<<<<<<< Updated upstream
 
 
 /*Custom CSS code is placed here
 ___________________________________________________________________*/
+=======
+/*Custom CSS code is placed here*/
+>>>>>>> Stashed changes
 
 @font-face {
   font-family: Bellerose;
@@ -1042,6 +1046,13 @@ ___________________________________________________________________*/
 .site-footer{
 	background-image:url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background-e1651821510228.png");
 	height: 140px;
+<<<<<<< Updated upstream
+=======
+	
+	width: 100%;
+	
+
+>>>>>>> Stashed changes
 }
 
 
@@ -1066,11 +1077,26 @@ a, a:visited{
 	height: 50px;
 }
 
+<<<<<<< Updated upstream
+=======
+.menuicons_3{
+	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/mail-1-e1652057890656.png');	
+	background-repeat: no-repeat;
+	background-position: above;
+	height: 50px;
+}
+
+
+>>>>>>> Stashed changes
 .menu{
 	margin-top: 5px;
 	float: left;
 	position: absolute;
 	margin-left: 15px;
+<<<<<<< Updated upstream
+=======
+	margin-bottom: 5px;
+>>>>>>> Stashed changes
 }
 
 .menu li{
@@ -1088,3 +1114,11 @@ a, a:visited{
 	margin-left: 5px;
 }
 
+<<<<<<< Updated upstream
+=======
+.site-contact{
+	float: right;
+	width:40%;
+	
+}
+>>>>>>> Stashed changes
