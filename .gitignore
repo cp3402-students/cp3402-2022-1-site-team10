@@ -23,3 +23,5 @@ Wordpress/wp-settings.php
 Wordpress/wp-signup.php
 Wordpress/wp-trackback.php
 Wordpress/xmlrpc.php
+Wordpress/wp-config.php
+Wordpress/.htaccess
