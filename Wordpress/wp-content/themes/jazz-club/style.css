@@ -974,7 +974,19 @@ textarea {
 CUSTOM CODE HERE
 ____________________________________________________________________
 */
+/*
+FONTS
+*/
 
+@font-face {
+  font-family: Bellerose;
+  src: url(Fonts/Bellerose.ttf);
+}
+
+@font-face {
+  font-family: ParkLaneNF;
+  src: url("Fonts/ParkLaneNF.otf");
+}
 
 /*
 HEADER
