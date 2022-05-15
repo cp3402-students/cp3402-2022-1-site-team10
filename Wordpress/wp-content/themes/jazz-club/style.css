@@ -1092,6 +1092,33 @@ FOOTER
 	
 }
 
+/* social media menu icons */
+
+.menuicons_1{
+	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/Facebook-e1652013578899.png');
+	background-repeat: no-repeat;
+	background-position: above;
+	height: 50px;
+	
+}
+
+.menuicons_2{
+	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/instagram-e1652013592391.png');	
+	background-repeat: no-repeat;
+	background-position: above;
+	height: 50px;
+	
+}
+
+.menuicons_3{
+	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/mail-1-e1652057890656.png');	
+	background-repeat: no-repeat;
+	background-position: above;
+	height: 50px;
+	
+}
+
+/* footer contact info */
 .site-contact{
 	float: right;
 	margin-right: 20px;
