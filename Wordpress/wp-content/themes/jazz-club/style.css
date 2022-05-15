@@ -1037,3 +1037,26 @@ Top Navigation Menu */
 	margin-top: 35px;
 	
 }
+
+/*
+FOOTER
+*/
+
+.site-footer{
+	background-image:url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background.png");
+	background-position: center;
+	overflow: hidden;
+	height:auto;
+	width: 100%;
+	
+}
+
+.footer-container{
+	float:left;
+	
+}
+
+.footer-menu{
+	float:left;
+	
+}
