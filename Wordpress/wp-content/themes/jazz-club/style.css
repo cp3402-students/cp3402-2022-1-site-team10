@@ -1142,3 +1142,15 @@ FOOTER
 	
 }
 
+a, a:visited{
+	color: #1d2327;
+	text-decoration: none;
+}
+
+.post-meta{
+	display:none;
+}
+
+-post-tags{
+	display: none;
+}
