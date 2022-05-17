@@ -993,11 +993,7 @@ HEADER
 */
 
 .site-header {
-	background-image: url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background.png");
-	margin-top: -22px;
-	overflow: hidden;
-	height: 110px;	
-	
+	background-image: url("https://localhost/Assignment_2/cp3402-2022-1-site-team10/Wordpress/wp-content/uploads/2022/05/header_background.png");
 }
 
 .entry-header {
@@ -1005,8 +1001,11 @@ HEADER
 }
 
 /*
-Top Navigation Menu */
+Top Navigation Menu
+*/
 
+
+/*
 .main-navigation {
 	padding-top: 20px;
 	padding-bottom: 1px;
@@ -1026,9 +1025,9 @@ Top Navigation Menu */
 	height: 75px;	
 	
 }
+ */
 
-
-/* Site Logo and title - nested in site-branding */
+/* Site Logo and title - nested in site-branding 
 
 .site-branding{
 	width:40%;
@@ -1037,15 +1036,7 @@ Top Navigation Menu */
 	margin-top: 10px;
 	
 }
-
-.custom-logo {
-	margin-top: 23px;
-	margin-left: 10px;
-	border:3px solid #000;
-	display: inline-block;
-	position: relative;
-		
-}
+*/
 
 .site-title{
 	font-family: ParkLaneNF;
@@ -1058,9 +1049,8 @@ Top Navigation Menu */
 	
 }
 
-/*
-BODY
-*/
+/* BODY */
+
 
 .entry-content{
 	margin: auto; 
@@ -1103,7 +1093,7 @@ FOOTER
 	
 }
 
-.menu{
+#menu{
 	margin-top: 5px;
 	float: left;
 	position: absolute;
