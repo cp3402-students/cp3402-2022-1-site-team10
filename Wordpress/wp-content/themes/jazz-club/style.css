@@ -970,13 +970,11 @@ textarea {
 
 
 
-/*
-CUSTOM CODE HERE
-____________________________________________________________________
-*/
-/*
-FONTS
-*/
+/* ____________________________________________________________________
+							Jazz Club custom CSS
+____________________________________________________________________ */
+
+/* FONTS */
 
 @font-face {
   font-family: Bellerose;
@@ -988,9 +986,7 @@ FONTS
   src: url("Fonts/ParkLaneNF.otf");
 }
 
-/*
-HEADER
-*/
+/* Header */
 
 .site-header {
 	background-image: url("https://localhost/Assignment_2/cp3402-2022-1-site-team10/Wordpress/wp-content/uploads/2022/05/header_background.png");
@@ -1005,9 +1001,7 @@ HEADER
 	text-align: center;
 }
 
-/*
-Top Navigation Menu
-*/
+/* Top Navigation Menu */
 
 
 #primary-menu li {
@@ -1024,30 +1018,23 @@ Top Navigation Menu
 	position: absolute;
 }
 
-.site-title{
+.site-title {
 	font-family: ParkLaneNF;
-	font-size: 2em;
 	color: black;
 	display: inline-block;
-	position: absolute;
-	margin-left: 27px;
-	margin-top: 35px;
 	
 }
 
-/* BODY */
+/* Body */
 
-.entry-content{
+.entry-content {
 	margin: auto; 
 	max-width: 70%; 
-	
 }
 
-/*
-FOOTER
-*/
+/* Footer */
 
-.site-footer{
+.site-footer {
 	background-image:url("http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/navbar-background.png");
 	background-position: center;
 	overflow: hidden;
@@ -1056,24 +1043,24 @@ FOOTER
 	
 }
 
-.footer-container{
+.footer-container {
 	float:left;
 	
 }
 
-.footer-menu{
+.footer-menu {
 	float:left;
 	
 }
 
 /* built by wordpress info */
-.site-info{
+.site-info {
 	padding-top: 140px;	
 }
 
 
 /* social media menu in footer */
-.socials{
+.socials {
 	margin-left: 5px;
 	
 }
@@ -1087,7 +1074,7 @@ FOOTER
 	
 }
 
-#secondary-menu li{
+#secondary-menu li {
 	float:left;
 	width: 90px;
 	
@@ -1095,7 +1082,7 @@ FOOTER
 
 /* social media menu icons */
 
-.menuicons_1{
+.menuicons_1 {
 	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/Facebook-e1652013578899.png');
 	background-repeat: no-repeat;
 	background-position: above;
@@ -1103,7 +1090,7 @@ FOOTER
 	
 }
 
-.menuicons_2{
+.menuicons_2 {
 	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/instagram-e1652013592391.png');	
 	background-repeat: no-repeat;
 	background-position: above;
@@ -1111,7 +1098,7 @@ FOOTER
 	
 }
 
-.menuicons_3{
+.menuicons_3 {
 	background-image: url('http://localhost/TownsvilleJazzClub/wordpress/wp-content/uploads/2022/05/mail-1-e1652057890656.png');	
 	background-repeat: no-repeat;
 	background-position: above;
@@ -1120,7 +1107,7 @@ FOOTER
 }
 
 /* footer contact info */
-.site-contact{
+.site-contact {
 	float: right;
 	margin-right: 20px;
 	margin-top: 10px;
@@ -1131,15 +1118,15 @@ FOOTER
 	
 }
 
-a, a:visited{
+a, a:visited {
 	color: #1d2327;
 	text-decoration: none;
 }
 
-.post-meta{
+.post-meta {
 	display:none;
 }
 
--post-tags{
+-post-tags {
 	display: none;
 }
