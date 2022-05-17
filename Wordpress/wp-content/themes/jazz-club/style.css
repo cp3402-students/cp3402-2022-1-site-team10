@@ -994,6 +994,7 @@ HEADER
 
 .site-header {
 	background-image: url("https://localhost/Assignment_2/cp3402-2022-1-site-team10/Wordpress/wp-content/uploads/2022/05/header_background.png");
+	height: 5em;
 }
 
 .entry-header {
@@ -1002,7 +1003,6 @@ HEADER
 
 #site-navigation {
 	text-align: center;
-	height: 4em;
 }
 
 /*
@@ -1015,7 +1015,6 @@ Top Navigation Menu
 	font-size: 1.3em;
 	display: inline-block;
 	padding: 0em 1em 0em 1em;
-	margin-top: 1.1em;
 }
 
 
