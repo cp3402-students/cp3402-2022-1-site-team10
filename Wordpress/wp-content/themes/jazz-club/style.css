@@ -1163,6 +1163,13 @@ figure {
 	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 			#000, -1px 0 0 #000;
 }
 
+/*Black text on Gallery page*/
+
+.page-id-158 figure {
+   color: #000000;
+   text-shadow: none;
+}
+
 /* Newsletter page */
 
 .page-id-452 .entry-content h2 {
