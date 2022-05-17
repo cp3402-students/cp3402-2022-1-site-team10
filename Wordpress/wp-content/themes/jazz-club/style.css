@@ -1003,6 +1003,12 @@ ____________________________________________________________________ */
 	display: none;
 }
 
+#site-navigation {
+	text-align: center;
+	height: 4em;
+	vertical-align: middle;
+}
+
 /* Top Navigation Menu */
 
 #primary-menu li {
