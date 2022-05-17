@@ -1162,3 +1162,13 @@ figure {
 	color: #fff;
 	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 			#000, -1px 0 0 #000;
 }
+
+/* Newsletter page */
+
+.page-id-452 .entry-content h2 {
+   text-align: center;
+}
+
+.page-id-141 .entry-content p {
+   text-align: center;
+}
