@@ -1003,10 +1003,6 @@ ____________________________________________________________________ */
 	display: none;
 }
 
-#site-navigation {
-	text-align: center;
-}
-
 /* Top Navigation Menu */
 
 #primary-menu li {
@@ -1135,4 +1131,18 @@ a, a:visited {
 
 -post-tags {
 	display: none;
+}
+
+/* Used for galleries and photos*/
+
+.wp-block-columns {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+/* White text, black outline on caption of images*/
+figure {
+	color: #fff;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 			#000, -1px 0 0 #000;
 }
