@@ -1055,6 +1055,16 @@ Top Navigation Menu */
 }
 
 /*
+BODY
+*/
+
+.entry-content{
+	margin: auto; 
+	max-width: 70%; 
+	
+}
+
+/*
 FOOTER
 */
 
