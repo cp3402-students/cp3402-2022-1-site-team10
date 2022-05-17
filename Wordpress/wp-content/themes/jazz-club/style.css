@@ -1015,12 +1015,15 @@ ____________________________________________________________________ */
 
 .site-branding {
 	position: absolute;
+	top: 2.3em;
+	left: 1em;
 }
 
 .site-title {
 	font-family: ParkLaneNF;
 	color: black;
 	display: inline-block;
+	
 }
 
 /* Body */
@@ -1111,6 +1114,7 @@ ____________________________________________________________________ */
 	padding-right: 20px;
 	padding-left: 20px;
 	background-color: #737c77;
+	
 }
 
 a, a:visited {
