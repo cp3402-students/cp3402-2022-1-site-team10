@@ -1003,7 +1003,6 @@ ____________________________________________________________________ */
 
 /* Top Navigation Menu */
 
-
 #primary-menu li {
 	font-family: Bellerose;
 	font-size: 1.3em;
@@ -1022,7 +1021,6 @@ ____________________________________________________________________ */
 	font-family: ParkLaneNF;
 	color: black;
 	display: inline-block;
-	
 }
 
 /* Body */
@@ -1054,12 +1052,14 @@ ____________________________________________________________________ */
 }
 
 /* built by wordpress info */
+
 .site-info {
 	padding-top: 140px;	
 }
 
 
 /* social media menu in footer */
+
 .socials {
 	margin-left: 5px;
 	
@@ -1071,7 +1071,6 @@ ____________________________________________________________________ */
 	position: absolute;
 	margin-left: 15px;
 	margin-bottom: 5px;
-	
 }
 
 #secondary-menu li {
@@ -1087,7 +1086,6 @@ ____________________________________________________________________ */
 	background-repeat: no-repeat;
 	background-position: above;
 	height: 50px;
-	
 }
 
 .menuicons_2 {
@@ -1095,7 +1093,6 @@ ____________________________________________________________________ */
 	background-repeat: no-repeat;
 	background-position: above;
 	height: 50px;
-	
 }
 
 .menuicons_3 {
@@ -1103,7 +1100,6 @@ ____________________________________________________________________ */
 	background-repeat: no-repeat;
 	background-position: above;
 	height: 50px;
-	
 }
 
 /* footer contact info */
@@ -1115,7 +1111,6 @@ ____________________________________________________________________ */
 	padding-right: 20px;
 	padding-left: 20px;
 	background-color: #737c77;
-	
 }
 
 a, a:visited {
