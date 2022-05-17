@@ -1011,11 +1011,21 @@ ____________________________________________________________________ */
 
 /* Top Navigation Menu */
 
+#primary-menu {
+	display: inline-block;
+}
+
 #primary-menu li {
 	font-family: Bellerose;
 	font-size: 1.3em;
 	display: inline-block;
 	padding: 0em 1em 0em 1em;
+}
+
+.menu-item {
+	display: inline-block;
+	padding: 0em 1em 0em 1em;
+	margin-top: 1.1em;
 }
 
 
