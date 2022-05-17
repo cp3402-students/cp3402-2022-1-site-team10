@@ -1179,3 +1179,7 @@ figure {
 .page-id-141 .entry-content p {
    text-align: center;
 }
+
+.page-id-141 .wp-block-columns {
+   width: 60%;
+}
