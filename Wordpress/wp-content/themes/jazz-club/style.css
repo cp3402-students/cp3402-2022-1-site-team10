@@ -1000,6 +1000,10 @@ HEADER
 	
 }
 
+.entry-header {
+	display: none;
+}
+
 /*
 Top Navigation Menu */
 
