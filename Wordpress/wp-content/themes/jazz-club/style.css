@@ -1176,10 +1176,15 @@ figure {
    text-align: center;
 }
 
-.page-id-141 .entry-content p {
+.page-id-452 .entry-content p {
    text-align: center;
 }
 
-.page-id-141 .wp-block-columns {
+.page-id-452 .wp-block-columns {
    width: 60%;
+}
+
+.page-id-452 figure {
+   color: #000000;
+   text-shadow: none;
 }
