@@ -1093,7 +1093,7 @@ FOOTER
 	
 }
 
-#menu{
+#secondary-menu {
 	margin-top: 5px;
 	float: left;
 	position: absolute;
@@ -1102,7 +1102,7 @@ FOOTER
 	
 }
 
-.menu li{
+#secondary-menu li{
 	float:left;
 	width: 90px;
 	
