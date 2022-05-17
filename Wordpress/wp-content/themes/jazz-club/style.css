@@ -1021,13 +1021,9 @@ Top Navigation Menu
 
 /* Site Logo and title */
 
-.site-branding{
-	width:40%;
-	float: left;
-	text-align: left;
-	margin-top: 10px;
+.site-branding {
+	position: absolute;
 }
-
 
 .site-title{
 	font-family: ParkLaneNF;
