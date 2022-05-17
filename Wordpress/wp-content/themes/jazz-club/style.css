@@ -1178,6 +1178,11 @@ figure {
    left: -25%;*/
 }
 
+.wpforms-container.wpf-center {
+	margin: 0 auto !important;
+	max-width: 500px;
+}
+
 .page-id-452 .entry-content h2 {
    text-align: center;
 }
