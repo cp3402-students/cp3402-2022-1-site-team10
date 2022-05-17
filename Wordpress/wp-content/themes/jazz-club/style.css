@@ -974,6 +974,12 @@ textarea {
 							Jazz Club custom CSS
 ____________________________________________________________________ */
 
+/* Affects all wordpress ages*/
+.site-main {
+	width: 70%;
+	margin: auto;
+}
+
 /* FONTS */
 
 @font-face {
