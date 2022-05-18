@@ -975,11 +975,6 @@ textarea {
 ____________________________________________________________________ */
 
 /* Affects all wordpress ages*/
-.site-main {
-	width: 70%;
-	margin: auto;
-}
-
 #secondary {
 	display: none;
 }
@@ -1050,7 +1045,7 @@ ____________________________________________________________________ */
 
 .entry-content {
 	margin: auto; 
-	max-width: 70%;
+	max-width: 50%;
 	padding-top: 1em;
 }
 
@@ -1200,4 +1195,3 @@ figure {
    color: #000000;
    text-shadow: none;
 }
-
