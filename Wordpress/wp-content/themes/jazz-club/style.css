@@ -1057,7 +1057,7 @@ ____________________________________________________________________ */
 	overflow: hidden;
 	height:auto;
 	width: 100%;
-	
+	margin-bottom: -1.5em;
 }
 
 .footer-container {
@@ -1170,8 +1170,6 @@ figure {
 /* Newsletter page */
 #wpforms-528 {
    width: 50%;
-   /*position: relative;
-   left: -25%;*/
 }
 
 .wpforms-container.wpf-center {
