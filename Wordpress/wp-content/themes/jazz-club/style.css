@@ -980,6 +980,10 @@ ____________________________________________________________________ */
 	margin: auto;
 }
 
+#secondary {
+	display: none;
+}
+
 /* FONTS */
 
 @font-face {
@@ -1196,3 +1200,4 @@ figure {
    color: #000000;
    text-shadow: none;
 }
+
