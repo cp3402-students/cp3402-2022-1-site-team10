@@ -1025,7 +1025,6 @@ ____________________________________________________________________ */
 	margin-top: .8em;
 }
 
-
 /* Site Logo and title */
 
 .site-branding {
@@ -1049,6 +1048,11 @@ ____________________________________________________________________ */
 	padding-top: 1em;
 }
 
+/* Home page */
+.page-id-26 .entry-content {
+	max-width: 70%;
+}
+
 /* Footer */
 
 .site-footer {
@@ -1061,14 +1065,13 @@ ____________________________________________________________________ */
 }
 
 .footer-container {
-	float:left;
-	
+	float:left;	
 }
 
 .footer-menu {
-	float:left;
-	
+	float:left;	
 }
+
 
 /* built by wordpress info */
 
@@ -1170,6 +1173,8 @@ figure {
 /* Newsletter page */
 #wpforms-528 {
    width: 50%;
+   /*position: relative;
+   left: -25%;*/
 }
 
 .wpforms-container.wpf-center {
