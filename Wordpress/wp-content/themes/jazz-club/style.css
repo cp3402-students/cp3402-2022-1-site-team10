@@ -1171,6 +1171,11 @@ figure {
 }
 
 /* Newsletter page */
+#wpforms-528 {
+   width: 50%;
+   /*position: relative;
+   left: -25%;*/
+}
 
 .wpforms-container.wpf-center {
 	margin: 0 auto !important;
