@@ -1,11 +1,10 @@
 # Townsville Jazz Club Website
-This markdown file will explain our deployment process for the Townsville Jazz Club website.
+Townsville Jazz Club uses automation and controls in places to maintain our codebase, manage changes and automate work where we found beneficial. We also leverage tools for effective communication.
 
-Townsville Jazz Club uses automation and controls in place to maintain our codebase, manage changes and automate work where we found beneficial.
-
-Throughout the development process, consistent communication and task tracking is key. Trello is used to track items through 4 Trello boards; Inbox, working on, done and ideas. The Trello boards have tasks created and moved around as new ideas are thought of, agreed on, worked on, then finally completed. 
 
 # Communication
+Throughout the development process, consistent communication and task tracking is key. Trello is used to track items through 4 Trello boards; Inbox, working on, done and ideas. The Trello boards have tasks created and moved around as new ideas are thought of, agreed on, worked on, then finally completed. 
+
 Slack is used as a communication tool to quickly communicate with members but to also track changes happening within Github and Trello. Any changes within the Trello boards and Github are automatically communicated to the team through Slack. When longer discussions were required, Discord can be utilised for voice communication.
 
 # Version Control
