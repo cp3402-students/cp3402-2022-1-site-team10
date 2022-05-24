@@ -19,9 +19,11 @@ Local development is leveraged through XAMPP to run a local Wordpress site. Loca
 # Automation
 To automate changes to our staging site, Deploybot was utilised. Deploybot constantly monitors Github through a webhook to detect commit changes. When a new commit is detected in the staging branch, Deploybot moves the files to the Staging site through SFTP. 
 
-# Stagig to Production
+# Staging to Production
 Moving staging to production isn’t optimised and requires manual work. To move from staging, you will need to utilise All-in-One WP Migration to export the staging site. After exporting, you will need to use All-in-One WP Migration to import the staging site onto the production site.
  
 
+# Workflow diagram
+The below diagram will illustrate how our communication interwines during the deploymnet process
 ![image](https://user-images.githubusercontent.com/53589460/169989153-4d0aa7e7-198d-4c51-ad81-a891196a2a7e.png)
 
