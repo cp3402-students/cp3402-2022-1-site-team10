@@ -1222,3 +1222,9 @@ figure {
    color: #000000;
    text-shadow: none;
 }
+
+/* Target the gallery on about page */
+
+.page-id-39 wp-block-columns{
+	width:100%;
+}
