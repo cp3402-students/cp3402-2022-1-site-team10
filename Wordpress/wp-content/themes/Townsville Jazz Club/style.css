@@ -1223,8 +1223,8 @@ figure {
    text-shadow: none;
 }
 
-/* Contact Us */
-#wpforms-788 {
-	Width: 50%;
-	margin: auto;
+/* Target the gallery on about page */
+
+.page-id-39 wp-block-columns{
+	width:100%;
 }
