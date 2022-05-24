@@ -1225,6 +1225,6 @@ figure {
 
 /* Target the gallery on about page */
 
-.page-id-39 wp-block-columns{
+.page-id-39 .wp-block-columns{
 	width:100%;
 }
