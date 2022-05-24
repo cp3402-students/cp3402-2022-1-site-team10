@@ -1072,6 +1072,30 @@ ____________________________________________________________________ */
 	float:left;	
 }
 
+.page-id-282 #colophon {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 99;
+	margin-bottom: 0em;
+}
+
+.page-id-158 #colophon {
+	position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 99;
+	margin-bottom: 0em;
+}
+
+.page-id-159 #colophon {
+	position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 99;
+	margin-bottom: 0em;
+}
+
 
 /* built by wordpress info */
 
@@ -1172,6 +1196,7 @@ figure {
 
 /* Newsletter page */
 #wpforms-528 {
+   width: 50%;
    /*position: relative;
    left: -25%;*/
 }
