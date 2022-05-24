@@ -1,6 +1,6 @@
 # Read Me Townsville Jazz Club
 This purpose of this project is to provide a modern wordpress based theme and site for the Townsville jazz club.
-## Other Documentation
+## Documentation
 
 ### Deployment
 [Deployment](deployment.md) documentation describles our development and deployment workflow in detail so that someone taking over the project could sucessfully follow and complete from theme development to live site.
