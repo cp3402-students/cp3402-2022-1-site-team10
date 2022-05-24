@@ -2,7 +2,7 @@ Townsville Jazz Club uses automation and controls in place to maintain our codeb
 
 Throughout the development process, consistent communication and task tracking is key. Trello is used to track items through 4 Trello boards; Inbox, working on, done and ideas. The Trello boards have tasks created and moved around as new ideas are thought of, agreed on, worked on, then finally completed. 
 
-Slack is used as a communication tool to quickly communicate with members but to also track changes happening within Github and Trello. Any changes within the Trello boards and Github are automatically communicated to the team through Slack. 
+Slack is used as a communication tool to quickly communicate with members but to also track changes happening within Github and Trello. Any changes within the Trello boards and Github are automatically communicated to the team through Slack. When longer discussions were required, Discord can be utilised for voice communication.
 
 Townsville Jazz Club utilises Git, through Github to manage version control. There are 2 branches, Main and Staging. Staging is used for all in development aspects, such as modifying the website and preparing for a production release. The main branch is used for production and is our codebase used for the production website. We merge the staging branch with main when we are ready to deploy to production.
 
